@@ -1,0 +1,63 @@
+{
+  "_from": "pdf2img-lambda-friendly@^2.0.0",
+  "_id": "pdf2img-lambda-friendly@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-YeyrrbSfZkf1B0jXRCCIS7bxYz6eK5vwmLXm4rYaPElH0Oox4R4s0nZ5Hr+z3PajGeMKt1lckN6AigNzmZIVOA==",
+  "_location": "/pdf2img-lambda-friendly",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "pdf2img-lambda-friendly@^2.0.0",
+    "name": "pdf2img-lambda-friendly",
+    "escapedName": "pdf2img-lambda-friendly",
+    "rawSpec": "^2.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^2.0.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/pdf2img-lambda-friendly/-/pdf2img-lambda-friendly-2.0.0.tgz",
+  "_shasum": "c8f191d39e519a8c6a9e93591097160e1fdc2e57",
+  "_spec": "pdf2img-lambda-friendly@^2.0.0",
+  "_where": "/Users/danielphillips/Documents/CariPay/ocr/serverless",
+  "author": {
+    "name": "Fitra Aditya",
+    "email": "fitra@g.pl"
+  },
+  "bugs": {
+    "url": "https://github.com/piggydoughnut/node-pdf2img/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "gm": "^1.17.0",
+    "node-gs": "^0.1.1"
+  },
+  "deprecated": false,
+  "description": "A nodejs module for converting pdf into image",
+  "devDependencies": {
+    "chai": "^2.0.0",
+    "mocha": "^2.1.0"
+  },
+  "homepage": "https://github.com/piggydoughnut/node-pdf2img",
+  "keywords": [
+    "pdf to image",
+    "pdf to image aws lambda",
+    "pdf to image lambda",
+    "pdf to jpg aws lambda",
+    "pdf to jpg lambda",
+    "pdf to png",
+    "pdf to png aws lambda",
+    "pdf to png lambda"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "pdf2img-lambda-friendly",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piggydoughnut/node-pdf2img.git"
+  },
+  "version": "2.0.0"
+}
