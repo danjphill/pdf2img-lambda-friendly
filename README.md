@@ -22,7 +22,7 @@ Ghostscript executable must be accessible by following this path `lambda-ghostsc
 ```javascript
 var fs      = require('fs');
 var path    = require('path');
-var pdf2img = require('pdf2img');
+var pdf2img = require('pdf2img-lambda-friendly');
 
 var input   = __dirname + '/test.pdf';
 
