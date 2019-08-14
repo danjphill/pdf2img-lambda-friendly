@@ -10,7 +10,7 @@ Currently (07-03-2018) AWS Lambda has a preinstalled ghostscript v8.70 (ancient!
 
 ## Installation
 
-`npm i pdf2img-lambda-friendly`
+`npm i https://github.com/danjphill/pdf2img-lambda-friendly`
 
 Download the compiled version of Ghostscript from [lambda-ghostscript](https://github.com/sina-masnadi/lambda-ghostscript).
 
